@@ -4,7 +4,7 @@ import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
 
 /**
- * Created by muhrahmatullah on 27/08/18.
+ * Created by maulana kavaldo on 15/12/2020.
  */
 @HiltAndroidApp
 class StudentApplication : Application()

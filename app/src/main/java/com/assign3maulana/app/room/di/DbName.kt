@@ -3,7 +3,7 @@ package com.assign3maulana.app.room.di
 import javax.inject.Qualifier
 
 /**
- * Created by muhrahmatullah on 26/09/18.
+ * Created by maulana kavaldo on 15/12/2020.
  */
 @Qualifier
 @Retention

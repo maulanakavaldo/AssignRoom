@@ -6,7 +6,7 @@ import com.assign3maulana.app.room.entity.Student
 import io.reactivex.Flowable
 
 /**
- * Created by muhrahmatullah on 12/08/18.
+ * Created by maulana kavaldo on 15/12/2020.
  */
 @Dao
 interface StudentDao {

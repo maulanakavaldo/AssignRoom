@@ -9,7 +9,7 @@ import com.assign3maulana.app.room.entity.Student
 import com.assign3maulana.app.room.features.base.BaseViewModel
 
 /**
- * Created by muhrahmatullah on 26/09/18.
+ * Created by maulana kavaldo on 15/12/2020.
  */
 class MainActivityViewModel @ViewModelInject constructor(private val localRepository: LocalRepository) : BaseViewModel() {
 

@@ -4,7 +4,7 @@ import androidx.lifecycle.ViewModelProvider
 import com.assign3maulana.app.room.vmfactory.StudentViewModelFactory
 
 /**
- * Created by muhrahmatullah on 27/09/18.
+ * Created by maulana kavaldo on 15/12/2020.
  */
 abstract class ViewModelFactoryModule {
 

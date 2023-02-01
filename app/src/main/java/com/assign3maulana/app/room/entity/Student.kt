@@ -7,7 +7,7 @@ import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
 
 /**
- * Created by muhrahmatullah on 12/08/18.
+ * Created by maulana kavaldo on 15/12/2020.
  */
 @Parcelize
 @Entity(tableName = "students")

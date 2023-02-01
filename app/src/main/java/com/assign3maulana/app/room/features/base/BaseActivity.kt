@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import java.lang.reflect.ParameterizedType
 
 /**
- * Created by muhrahmatullah on 26/09/18.
+ * Created by maulana kavaldo on 15/12/2020.
  */
 abstract class BaseActivity<T : ViewDataBinding, V : ViewModel> : AppCompatActivity(){
 

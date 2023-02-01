@@ -11,7 +11,7 @@ import dagger.hilt.android.qualifiers.ApplicationContext
 import io.reactivex.disposables.CompositeDisposable
 
 /**
- * Created by muhrahmatullah on 27/08/18.
+ * Created by maulana kavaldo on 15/12/2020.
  */
 @InstallIn(ApplicationComponent::class)
 @Module

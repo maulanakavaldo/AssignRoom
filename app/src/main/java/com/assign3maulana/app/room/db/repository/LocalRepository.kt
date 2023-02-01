@@ -11,7 +11,7 @@ import io.reactivex.schedulers.Schedulers
 import javax.inject.Inject
 
 /**
- * Created by muhrahmatullah on 29/09/18.
+ * Created by maulana kavaldo on 15/12/2020.
  */
 class LocalRepository @Inject constructor(studentDao: StudentDao, compositeDisposable: CompositeDisposable) {
 

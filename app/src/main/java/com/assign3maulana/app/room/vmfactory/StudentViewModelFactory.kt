@@ -6,7 +6,7 @@ import javax.inject.Inject
 import javax.inject.Provider
 
 /**
- * Created by muhrahmatullah on 27/09/18.
+ * Created by maulana kavaldo on 15/12/2020.
  */
 class StudentViewModelFactory @Inject constructor(
         private val creators: Map<Class<out ViewModel>, @JvmSuppressWildcards Provider<ViewModel>>)

@@ -11,7 +11,7 @@ import android.view.View
 import android.view.ViewGroup
 
 /**
- * Created by muhrahmatullah on 26/09/18.
+ * Created by maulana kavaldo on 15/12/2020.
  */
 abstract class BaseFragment<T : ViewDataBinding, V : ViewModel> : Fragment() {
 
